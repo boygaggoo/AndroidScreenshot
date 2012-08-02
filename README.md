@@ -8,6 +8,9 @@ SDK to be installed, making this a useful tool for Android developers. Just to
 be clear, **Android Screenshot is not a tool to take screenshots from your
 phone**.
 
+If you have more than one Android device connected to your computer, this tool
+will not work.
+
 
 Installation
 ------------
