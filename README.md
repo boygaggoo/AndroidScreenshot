@@ -12,7 +12,7 @@ phone**.
 Installation
 ------------
 
-To install, simply mount the DMG and drag the Android Screenshot app to your
+To install, uncompress the zipfile and drag the Android Screenshot app to your
 /Applications folder. Make sure that your `~/.bashrc` file defines the
 environment variable `ANDROID_SDK_HOME`. This variable should be the path to
 where the Android SDK has been installed on your Mac.
